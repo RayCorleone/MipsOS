@@ -1,0 +1,55 @@
+os_flag.o: os_flag.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_mbox.o: os_mbox.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_mem.o: os_mem.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_mutex.o: os_mutex.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_q.o: os_q.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_sem.o: os_sem.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_task.o: os_task.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_time.o: os_time.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_tmr.o: os_tmr.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_dbg_r.o: os_dbg_r.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h
+os_core.o: os_core.c /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h

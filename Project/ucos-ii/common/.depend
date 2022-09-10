@@ -1,0 +1,17 @@
+openmips.o: openmips.c \
+  /home/ray/vivado/ucosii_OpenMIPS/include/includes.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/include/stdarg.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/include/stddef.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/include-fixed/limits.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/include-fixed/syslimits.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/../../../../mips-sde-elf/include/limits.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/../../../../mips-sde-elf/include/newlib.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/../../../../mips-sde-elf/include/_ansi.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/../../../../mips-sde-elf/include/sys/config.h \
+  /opt/mips-4.3/bin/../lib/gcc/mips-sde-elf/4.3.2/../../../../mips-sde-elf/include/machine/ieeefp.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/ucos_ii.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/app_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cfg.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/os_cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/cpu.h \
+  /home/ray/vivado/ucosii_OpenMIPS/include/openmips.h
