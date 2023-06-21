@@ -1,0 +1,35 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 28 00:36:40 2022
+# Process ID: 6164
+# Current directory: D:/Ray/Vivado/OpenMIPS
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19256 D:\Ray\Vivado\OpenMIPS\OpenMIPS.xpr
+# Log file: D:/Ray/Vivado/OpenMIPS/vivado.log
+# Journal file: D:/Ray/Vivado/OpenMIPS\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Ray/Vivado/OpenMIPS/OpenMIPS.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:09 . Memory (MB): peak = 726.801 ; gain = 99.551
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server -url localhost:3121
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2019.1
+  **** Build date : May 24 2019 at 15:13:31
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+ERROR: [Labtools 27-2220] Launch Error:
+Unable to launch local hw_server executable.
+
+ERROR: [Common 17-39] 'connect_hw_server' failed due to earlier errors.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jun 28 00:37:34 2022...

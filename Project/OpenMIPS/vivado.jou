@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jun 28 00:36:40 2022
+# Process ID: 6164
+# Current directory: D:/Ray/Vivado/OpenMIPS
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19256 D:\Ray\Vivado\OpenMIPS\OpenMIPS.xpr
+# Log file: D:/Ray/Vivado/OpenMIPS/vivado.log
+# Journal file: D:/Ray/Vivado/OpenMIPS\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Ray/Vivado/OpenMIPS/OpenMIPS.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server -url localhost:3121
